@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kostis Vitiniotis</title>
-    <link>https://kostisvit.github.io/portfolio/tags/</link>
+    <link>https://kostisvit.github.io/kostisvit/portfolio/tags/</link>
     <description>Recent content in Tags on Kostis Vitiniotis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://kostisvit.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://kostisvit.github.io/kostisvit/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>projects</title>
-      <link>https://kostisvit.github.io/portfolio/tags/projects/</link>
+      <link>https://kostisvit.github.io/kostisvit/portfolio/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://kostisvit.github.io/portfolio/tags/projects/</guid>
+      <guid>https://kostisvit.github.io/kostisvit/portfolio/tags/projects/</guid>
       <description></description>
     </item>
     
